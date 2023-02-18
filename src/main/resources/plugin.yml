@@ -1,0 +1,22 @@
+name: ImageGenerator
+version: '${project.version}'
+main: m_a_n.imagegenerator.Main
+api-version: 1.19
+authors: [ m_a_n ]
+description: image to blocks converter
+commands:
+  image:
+    description: Renders an image as blocks
+    usage: /<command> <filename> <direction> <position>
+  help:
+    description: Instructions
+    usage: /<command>
+    aliases:
+      - "h"
+      - "?"
+      - "instructions"
+      - "tut"
+      - "tutorial"
+  filter:
+    description: filter blocks used
+    usage: /<command> <falling/decaying>
