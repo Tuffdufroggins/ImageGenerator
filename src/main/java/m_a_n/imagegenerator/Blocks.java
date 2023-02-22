@@ -119,7 +119,6 @@ public class Blocks {
         blocks.put(Material.COBBLESTONE, -8355968);
         blocks.put(Material.COPPER_BLOCK, -4166576);
         blocks.put(Material.COPPER_ORE, -8552840);
-        blocks.put(Material.CORNFLOWER, 602402288);
         blocks.put(Material.CRACKED_DEEPSLATE_BRICKS, -12500671);
         blocks.put(Material.CRACKED_DEEPSLATE_TILES, -13290187);
         blocks.put(Material.CRACKED_NETHER_BRICKS, -14150632);
